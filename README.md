@@ -5,6 +5,7 @@
   <a href="mailto:umapathig4@gmail.com">Email</a> •
   <a href="https://portfolio-umapathi.netlify.app/">Portfolio</a> •
   <a href="www.linkedin.com/in/umapathi-g-5a3031247">LinkedIn</a>
+  <a href="https://leetcode.com/u/Umapathi17/">Leetcode</a>
 </p>
 
 ---
