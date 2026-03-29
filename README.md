@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Umapathi G</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js | AI Integration</h3>
+<h1 align="center">Umapathi G</h1>
+<h3 align="center">Frontend Engineer • React.js • Next.js • AI-Driven Applications</h3>
 
 <p align="center">
   <a href="mailto:umapathig4@gmail.com">Email</a> •
@@ -9,101 +9,134 @@
 
 ---
 
-## 💡 About Me
+## 🚀 Who I Am
 
-Frontend Developer with **3+ years of experience** building scalable, production-ready web applications.
+I build **high-performance, scalable frontend systems** and integrate **AI into real-world products**.
 
-- 🚀 Built **15+ enterprise UI screens** with React.js & Redux Toolkit
-- 🤖 Integrated **OpenAI & Google Gemini APIs** into real-world products
-- ⚡ Improved performance by **35%** using optimization techniques
-- 🏆 Runner-Up — BUILD.AI Hackathon (Top 2 of 13 teams)
+- 3+ years building production-grade applications
+- Delivered enterprise UI for large-scale platforms
+- Strong focus on **performance, architecture, and user experience**
+- Passionate about **AI-powered product development**
 
-I focus on writing **clean, scalable, and performance-driven code** while delivering complete end-to-end features.
+> I don’t just build UI — I build **systems that scale and solve real problems**
+
+---
+
+## 💥 Key Impact
+
+- 🚀 Built **15+ enterprise UI screens** → reduced feature development time by **40%**
+- ⚡ Improved application performance by **35%** (memoization, lazy loading, rendering optimization)
+- 🤖 Integrated **OpenAI & Gemini APIs** → automated workflows, reduced manual effort by **50%**
+- 🏆 **Runner-Up — BUILD.AI Hackathon (Top 2/13 teams)**
+
+---
+
+## 🧠 Engineering Strengths
+
+### ⚙️ Frontend Architecture
+- Component-driven design (scalable & reusable)
+- State management using Redux Toolkit & React Query
+- Clean separation of concerns & maintainable codebases
+
+### ⚡ Performance Optimization
+- Core Web Vitals focused development
+- SSR / SSG / ISR (Next.js)
+- Code splitting, memoization, debouncing
+- Handling large datasets efficiently
+
+### 🔗 API & Data Handling
+- REST API integration (end-to-end)
+- Loading, error, and edge-state handling
+- Scalable data-fetching strategies
+
+### 🤖 AI Integration (Core Differentiator)
+- OpenAI API (automation, validation workflows)
+- Google Gemini API (dynamic UI generation)
+- Prompt engineering for real-world applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
+**Frontend**
 - React.js, Next.js, TypeScript
 - JavaScript (ES6+), HTML5, CSS3
 - Tailwind CSS, Material UI, Bootstrap
 
-### 🔄 State & Data
+**State & Data**
 - Redux Toolkit, React Query, Context API
 - REST APIs, Axios
 
-### ⚡ Performance
-- SSR, SSG, ISR
-- Lazy Loading, Code Splitting
-- Memoization, Debouncing
-- Core Web Vitals Optimization
-
-### 🤖 AI Integration
-- OpenAI API
-- Google Gemini API
-- Prompt Engineering
-- LLM-powered UI workflows
-
-### 🧪 Testing & Tools
+**Testing & Tools**
 - Jest, React Testing Library
 - Git, GitHub, Vite
-- Figma, Chrome DevTools, Lighthouse
+- Chrome DevTools, Lighthouse, Figma
+
+---
+
+## 🚧 Featured Work
+
+### 🤖 AI-Powered Landing Page Builder *(In Progress)*
+
+A SaaS product combining **AI + frontend engineering**
+
+#### 🔹 AI Page Generator
+- Generate landing pages from raw content
+- AI chat interface to modify UI in real-time
+- One-click publish system
+
+#### 🔹 AI Page Rephraser
+- Input URL → Extract → Rewrite using AI → Editable output
+- Enables instant content refresh without rebuilding
+
+> Focus: **AI-assisted UI generation + real-time editing experience**
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Associate I — Speridian Technologies (Aug 2023 – Present)
+### 🏢 Associate I — Speridian Technologies
+**Aug 2023 – Present | Bengaluru**
 
-- Built **15+ production-ready UI screens** for enterprise platform (CM360)
-- Reduced development time by **40%** using reusable component architecture
-- Integrated **AI-driven compliance validation** (OpenAI)
-- Improved UI performance by **35%**
-- Collaborated in Agile teams & handled **end-to-end API integration**
+- Built scalable UI for enterprise asset management platform
+- Designed reusable component architecture
+- Integrated AI workflows into production systems
+- Worked in Agile teams delivering end-to-end features
 
 ---
 
 ### 👨‍💻 Intern — Speridian Technologies
 
-- Developed **10+ responsive landing pages**
-- Achieved **95+ Lighthouse scores**
-- Ensured cross-browser compatibility
-
----
-
-## 🚧 Projects
-
-### 🤖 AI-Powered Landing Page Builder (Ongoing)
-
-**🔹 AI Page Generator**
-- Generate landing pages from content using AI
-- Real-time editing + one-click publish
-- Gemini-powered chat interface for UI changes
-
-**🔹 AI Page Rephraser**
-- Paste URL → Fetch → AI rewrite → Edit → Publish
-- Enables fast content refresh without rebuilding pages
+- Built high-performance landing pages (95+ Lighthouse)
+- Focused on responsiveness & cross-browser compatibility
 
 ---
 
 ## 🏆 Achievements
 
 - 🥈 Runner-Up — BUILD.AI Hackathon (2026)
-- Built an **AI SEO Blog Generator (React + Node.js)**
+- Built an AI SEO Blog Generator (React + Node.js)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 What I’m Looking For
+
+- Frontend Engineer roles (React / Next.js)
+- Product-driven teams
+- Opportunities to build **AI-powered user experiences**
+
+---
+
+## 📫 Contact
 
 - 📧 Email: umapathig4@gmail.com
 - 🌐 Portfolio: https://portfolio-umapathi.netlify.app/
@@ -111,4 +144,12 @@ I focus on writing **clean, scalable, and performance-driven code** while delive
 
 ---
 
-⭐️ *"Building scalable UI + integrating AI to create real-world impact."*
+## ⚡ Personal Edge
+
+- Strong combination of **Frontend + AI integration**
+- Experience in **enterprise + product development**
+- Focus on **performance, scalability, and real-world impact**
+
+---
+
+⭐ *"I build fast, scalable UIs — and make them smarter with AI."*
